@@ -1,7 +1,6 @@
 # MobiHok_pro 
 MobiHok_pro修复汉化版，集成环境，无需配置Java。
-# MobiHok_pro 
-MobiHok_pro修复汉化版，集成环境，无需配置Java。
+
 # 软件授权
 🔥终身授权🔥
 🔥CRAXSRAT-LIFETIME🔥
