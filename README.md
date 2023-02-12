@@ -20,6 +20,7 @@ I do NOT support any malicious use of this software. This is for educational pur
 
 
 # 功能展示
+![20230212134706](https://user-images.githubusercontent.com/62233800/218300414-5193f344-be19-45d5-8e20-044eff636363.jpg)
 
 ## 功能介绍
 💠𝗙𝗶𝗹𝗲 𝗠𝗮𝗻𝗮𝗴𝗲𝗿
@@ -153,5 +154,4 @@ screen
 Skeleton view or Scan View
 - ✅ Bypass black screen of banks and crypto app
 - ✅Add logo window to copy anything from screen easy
-
 
